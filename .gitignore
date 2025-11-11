@@ -47,8 +47,8 @@ models/
 
 # Data
 # data/raw/  # Raw data dosyaları push edilebilir
-data/processed/
-# *.csv  # CSV dosyaları push edilebilir (sadece processed içindekiler ignore edilir)
+# data/processed/  # Processed data dosyaları da push edilebilir
+# *.csv  # CSV dosyaları push edilebilir
 *.parquet
 *.h5
 *.hdf5
