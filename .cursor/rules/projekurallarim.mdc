@@ -1,0 +1,13 @@
+---
+alwaysApply: true
+---
+
+** Zorunlu kurallar
+- Sequential Thinking mcp debug, kod inceleme, hata tespiti, mimari tasarım, planlama gibi
+karmaşık görevlerde zorunlu olarak kullanılacak.
+
+- Araştırma, analiz ve incelemelerden sonra "Özeleştiri" başlığı altında ;
+detaylı incelenmesi gerektiği halde yüzeysel ve hızlı atlanan,
+şüpheli bir durum olmasına rağmen pek detay sorular sormadan yüzeysel incelenip karar verilen,
+emin olmadan kullanıcıya bildirilen,
+daha fazla incelenmesi gerektiği halde incelenmeyen şeyler varsa kullanıcıya bunları kesinlikle bildir.
