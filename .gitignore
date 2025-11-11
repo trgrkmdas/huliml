@@ -46,9 +46,9 @@ models/
 *.ckpt
 
 # Data
-data/raw/
+# data/raw/  # Raw data dosyaları push edilebilir
 data/processed/
-*.csv
+# *.csv  # CSV dosyaları push edilebilir (sadece processed içindekiler ignore edilir)
 *.parquet
 *.h5
 *.hdf5
